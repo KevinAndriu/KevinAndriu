@@ -2,7 +2,7 @@
   <h1 align="center"> ¡Hello, i'm Kevin Andriu! 👋 </h1>
 </div>  
 
-<h2 align="center">Welcome to my GitHub profile! 👋
+<h2 align="center">👋
 I'm someone passionate about development and I'm on a journey to become a Full-Stack developer specialized in JavaScript. Here you can find some of the projects I've worked on, mostly as part of my studies, as I consider myself a self-taught individual with a strong desire to keep learning.</h2>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
